@@ -1,5 +1,5 @@
 -  Hi, I’m @arianforoutan
--  I’m currently learning kotlin and dart languages
+-  I’m currently learning  dart & flutter
 -  I’m looking to collaborate on ...
 -  How to reach me ...instagram @arian_code, email arian.foroutan.dev@gmail.com
 
